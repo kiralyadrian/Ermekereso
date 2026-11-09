@@ -67,5 +67,5 @@
         "*.sln": "*.csproj",
         "*.slnx": "*.csproj"
     },
-    "dotnet.defaultSolution": "ez lesz az, érzem.slnx"
+    "dotnet.defaultSolution": "Ermekereso.slnx"
 }

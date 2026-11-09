@@ -83,6 +83,12 @@ public class CoinCounter : MonoBehaviour
         }
 
         UpdateTimerText();
+
+        if (Input.GetKeyDown(KeyCode.Escape))
+        {
+            Application.Quit();
+            Debug.Log("Kilépés a játékból...");
+        }
     }
 
     public void AddCoin()

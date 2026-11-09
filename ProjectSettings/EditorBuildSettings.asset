@@ -6,12 +6,6 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/ModularFirstPersonController/DemoScene/Demo.unity
-    guid: 3f4d31d87a79b4632a5446ee186baf7f
-  - enabled: 1
-    path: Assets/Wispy Sky/Demo/Sky.unity
-    guid: 4bc5adf546be30b40bf84376fcbb49dc
-  - enabled: 1
     path: Assets/3D Haven/Free Fantasy Terrain Textures/Demo/FTT-F Demo.unity
     guid: e2afd466904318e4ab524401078467a2
   m_configObjects:

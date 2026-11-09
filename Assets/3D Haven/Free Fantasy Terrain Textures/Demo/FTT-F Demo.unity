@@ -226,17 +226,21 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 874158129}
     m_Modifications:
+    - target: {fileID: 3399358908314305425, guid: 8fc395398d0be4d1dbb13fbc0cea32a7, type: 3}
+      propertyPath: coinSound
+      value: 
+      objectReference: {fileID: 8300000, guid: ccd0634cec4874a268e11e672f2a7709, type: 3}
     - target: {fileID: 3590601910715494813, guid: 8fc395398d0be4d1dbb13fbc0cea32a7, type: 3}
       propertyPath: m_Name
       value: Bitcoin_forog
       objectReference: {fileID: 0}
     - target: {fileID: 4224290436786252583, guid: 8fc395398d0be4d1dbb13fbc0cea32a7, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 471.4
+      value: 450.69
       objectReference: {fileID: 0}
     - target: {fileID: 4224290436786252583, guid: 8fc395398d0be4d1dbb13fbc0cea32a7, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 105.84
+      value: 106.709
       objectReference: {fileID: 0}
     - target: {fileID: 4224290436786252583, guid: 8fc395398d0be4d1dbb13fbc0cea32a7, type: 3}
       propertyPath: m_LocalPosition.z
@@ -488,8 +492,8 @@ MonoBehaviour:
   m_fontMaterials: []
   m_fontColor32:
     serializedVersion: 2
-    rgba: 4279876054
-  m_fontColor: {r: 0.8392157, g: 0.7254902, b: 0.09803922, a: 1}
+    rgba: 4278190594
+  m_fontColor: {r: 0.009433985, g: 0.008075207, b: 0.00057849934, a: 1}
   m_enableVertexGradient: 0
   m_colorMode: 3
   m_fontColorGradient:
@@ -506,8 +510,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 22
-  m_fontSizeBase: 22
+  m_fontSize: 40
+  m_fontSizeBase: 40
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -857,6 +861,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 874158129}
     m_Modifications:
+    - target: {fileID: 3399358908314305425, guid: 8fc395398d0be4d1dbb13fbc0cea32a7, type: 3}
+      propertyPath: coinSound
+      value: 
+      objectReference: {fileID: 8300000, guid: ccd0634cec4874a268e11e672f2a7709, type: 3}
     - target: {fileID: 3590601910715494813, guid: 8fc395398d0be4d1dbb13fbc0cea32a7, type: 3}
       propertyPath: m_Name
       value: Bitcoin_forog
@@ -867,7 +875,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4224290436786252583, guid: 8fc395398d0be4d1dbb13fbc0cea32a7, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 65
+      value: 61.279
       objectReference: {fileID: 0}
     - target: {fileID: 4224290436786252583, guid: 8fc395398d0be4d1dbb13fbc0cea32a7, type: 3}
       propertyPath: m_LocalPosition.z
@@ -914,6 +922,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 874158129}
     m_Modifications:
+    - target: {fileID: 3399358908314305425, guid: 8fc395398d0be4d1dbb13fbc0cea32a7, type: 3}
+      propertyPath: coinSound
+      value: 
+      objectReference: {fileID: 8300000, guid: ccd0634cec4874a268e11e672f2a7709, type: 3}
     - target: {fileID: 3590601910715494813, guid: 8fc395398d0be4d1dbb13fbc0cea32a7, type: 3}
       propertyPath: m_Name
       value: Bitcoin_forog
@@ -1230,21 +1242,25 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 874158129}
     m_Modifications:
+    - target: {fileID: 3399358908314305425, guid: 8fc395398d0be4d1dbb13fbc0cea32a7, type: 3}
+      propertyPath: coinSound
+      value: 
+      objectReference: {fileID: 8300000, guid: ccd0634cec4874a268e11e672f2a7709, type: 3}
     - target: {fileID: 3590601910715494813, guid: 8fc395398d0be4d1dbb13fbc0cea32a7, type: 3}
       propertyPath: m_Name
       value: Bitcoin_forog
       objectReference: {fileID: 0}
     - target: {fileID: 4224290436786252583, guid: 8fc395398d0be4d1dbb13fbc0cea32a7, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 357.42
+      value: 369.53
       objectReference: {fileID: 0}
     - target: {fileID: 4224290436786252583, guid: 8fc395398d0be4d1dbb13fbc0cea32a7, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 103.4
+      value: 104.69
       objectReference: {fileID: 0}
     - target: {fileID: 4224290436786252583, guid: 8fc395398d0be4d1dbb13fbc0cea32a7, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 376.16
+      value: 356.91
       objectReference: {fileID: 0}
     - target: {fileID: 4224290436786252583, guid: 8fc395398d0be4d1dbb13fbc0cea32a7, type: 3}
       propertyPath: m_LocalRotation.w
@@ -1323,7 +1339,7 @@ RectTransform:
   m_GameObject: {fileID: 561906272}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalScale: {x: 2, y: 2, z: 2}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 1289779367}
@@ -1331,7 +1347,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 180, y: -60}
+  m_AnchoredPosition: {x: 265, y: -3}
   m_SizeDelta: {x: 160, y: 30}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &561906274
@@ -1398,8 +1414,8 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: be4ce60e2c9768c44b9b10b9c5258045, type: 3}
-  m_Type: 0
+  m_Sprite: {fileID: 10905, guid: 0000000000000000f000000000000000, type: 0}
+  m_Type: 1
   m_PreserveAspect: 0
   m_FillCenter: 1
   m_FillMethod: 4
@@ -1424,21 +1440,25 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 874158129}
     m_Modifications:
+    - target: {fileID: 3399358908314305425, guid: 8fc395398d0be4d1dbb13fbc0cea32a7, type: 3}
+      propertyPath: coinSound
+      value: 
+      objectReference: {fileID: 8300000, guid: ccd0634cec4874a268e11e672f2a7709, type: 3}
     - target: {fileID: 3590601910715494813, guid: 8fc395398d0be4d1dbb13fbc0cea32a7, type: 3}
       propertyPath: m_Name
       value: Bitcoin_forog
       objectReference: {fileID: 0}
     - target: {fileID: 4224290436786252583, guid: 8fc395398d0be4d1dbb13fbc0cea32a7, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 404.94
+      value: 398.86
       objectReference: {fileID: 0}
     - target: {fileID: 4224290436786252583, guid: 8fc395398d0be4d1dbb13fbc0cea32a7, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 120.39
+      value: 116.444
       objectReference: {fileID: 0}
     - target: {fileID: 4224290436786252583, guid: 8fc395398d0be4d1dbb13fbc0cea32a7, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 361.73
+      value: 374.61
       objectReference: {fileID: 0}
     - target: {fileID: 4224290436786252583, guid: 8fc395398d0be4d1dbb13fbc0cea32a7, type: 3}
       propertyPath: m_LocalRotation.w
@@ -1481,6 +1501,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 874158129}
     m_Modifications:
+    - target: {fileID: 3399358908314305425, guid: 8fc395398d0be4d1dbb13fbc0cea32a7, type: 3}
+      propertyPath: coinSound
+      value: 
+      objectReference: {fileID: 8300000, guid: ccd0634cec4874a268e11e672f2a7709, type: 3}
     - target: {fileID: 3590601910715494813, guid: 8fc395398d0be4d1dbb13fbc0cea32a7, type: 3}
       propertyPath: m_Name
       value: Bitcoin_forog
@@ -1491,7 +1515,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4224290436786252583, guid: 8fc395398d0be4d1dbb13fbc0cea32a7, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 88.6
+      value: 86.769
       objectReference: {fileID: 0}
     - target: {fileID: 4224290436786252583, guid: 8fc395398d0be4d1dbb13fbc0cea32a7, type: 3}
       propertyPath: m_LocalPosition.z
@@ -1861,21 +1885,25 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 874158129}
     m_Modifications:
+    - target: {fileID: 3399358908314305425, guid: 8fc395398d0be4d1dbb13fbc0cea32a7, type: 3}
+      propertyPath: coinSound
+      value: 
+      objectReference: {fileID: 8300000, guid: ccd0634cec4874a268e11e672f2a7709, type: 3}
     - target: {fileID: 3590601910715494813, guid: 8fc395398d0be4d1dbb13fbc0cea32a7, type: 3}
       propertyPath: m_Name
       value: Bitcoin_forog
       objectReference: {fileID: 0}
     - target: {fileID: 4224290436786252583, guid: 8fc395398d0be4d1dbb13fbc0cea32a7, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 483.04
+      value: 478.595
       objectReference: {fileID: 0}
     - target: {fileID: 4224290436786252583, guid: 8fc395398d0be4d1dbb13fbc0cea32a7, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 101.52
+      value: 98.781
       objectReference: {fileID: 0}
     - target: {fileID: 4224290436786252583, guid: 8fc395398d0be4d1dbb13fbc0cea32a7, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 400.52
+      value: 420.54
       objectReference: {fileID: 0}
     - target: {fileID: 4224290436786252583, guid: 8fc395398d0be4d1dbb13fbc0cea32a7, type: 3}
       propertyPath: m_LocalRotation.w
@@ -1918,21 +1946,25 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 874158129}
     m_Modifications:
+    - target: {fileID: 3399358908314305425, guid: 8fc395398d0be4d1dbb13fbc0cea32a7, type: 3}
+      propertyPath: coinSound
+      value: 
+      objectReference: {fileID: 8300000, guid: ccd0634cec4874a268e11e672f2a7709, type: 3}
     - target: {fileID: 3590601910715494813, guid: 8fc395398d0be4d1dbb13fbc0cea32a7, type: 3}
       propertyPath: m_Name
       value: Bitcoin_forog
       objectReference: {fileID: 0}
     - target: {fileID: 4224290436786252583, guid: 8fc395398d0be4d1dbb13fbc0cea32a7, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 357.42
+      value: 364.78
       objectReference: {fileID: 0}
     - target: {fileID: 4224290436786252583, guid: 8fc395398d0be4d1dbb13fbc0cea32a7, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 103.4
+      value: 90.23
       objectReference: {fileID: 0}
     - target: {fileID: 4224290436786252583, guid: 8fc395398d0be4d1dbb13fbc0cea32a7, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 371.16
+      value: 423.13
       objectReference: {fileID: 0}
     - target: {fileID: 4224290436786252583, guid: 8fc395398d0be4d1dbb13fbc0cea32a7, type: 3}
       propertyPath: m_LocalRotation.w
@@ -1985,6 +2017,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 874158129}
     m_Modifications:
+    - target: {fileID: 3399358908314305425, guid: 8fc395398d0be4d1dbb13fbc0cea32a7, type: 3}
+      propertyPath: coinSound
+      value: 
+      objectReference: {fileID: 8300000, guid: ccd0634cec4874a268e11e672f2a7709, type: 3}
     - target: {fileID: 3590601910715494813, guid: 8fc395398d0be4d1dbb13fbc0cea32a7, type: 3}
       propertyPath: m_Name
       value: Bitcoin_forog
@@ -1995,7 +2031,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4224290436786252583, guid: 8fc395398d0be4d1dbb13fbc0cea32a7, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 88.95999
+      value: 86.599
       objectReference: {fileID: 0}
     - target: {fileID: 4224290436786252583, guid: 8fc395398d0be4d1dbb13fbc0cea32a7, type: 3}
       propertyPath: m_LocalPosition.z
@@ -2052,6 +2088,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 874158129}
     m_Modifications:
+    - target: {fileID: 3399358908314305425, guid: 8fc395398d0be4d1dbb13fbc0cea32a7, type: 3}
+      propertyPath: coinSound
+      value: 
+      objectReference: {fileID: 8300000, guid: ccd0634cec4874a268e11e672f2a7709, type: 3}
     - target: {fileID: 3590601910715494813, guid: 8fc395398d0be4d1dbb13fbc0cea32a7, type: 3}
       propertyPath: m_Name
       value: Bitcoin_forog
@@ -2062,7 +2102,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4224290436786252583, guid: 8fc395398d0be4d1dbb13fbc0cea32a7, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 103.4
+      value: 94.634
       objectReference: {fileID: 0}
     - target: {fileID: 4224290436786252583, guid: 8fc395398d0be4d1dbb13fbc0cea32a7, type: 3}
       propertyPath: m_LocalPosition.z
@@ -2109,6 +2149,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 874158129}
     m_Modifications:
+    - target: {fileID: 3399358908314305425, guid: 8fc395398d0be4d1dbb13fbc0cea32a7, type: 3}
+      propertyPath: coinSound
+      value: 
+      objectReference: {fileID: 8300000, guid: ccd0634cec4874a268e11e672f2a7709, type: 3}
     - target: {fileID: 3590601910715494813, guid: 8fc395398d0be4d1dbb13fbc0cea32a7, type: 3}
       propertyPath: m_Name
       value: Bitcoin_forog
@@ -2119,7 +2163,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4224290436786252583, guid: 8fc395398d0be4d1dbb13fbc0cea32a7, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 52.99
+      value: 51.432
       objectReference: {fileID: 0}
     - target: {fileID: 4224290436786252583, guid: 8fc395398d0be4d1dbb13fbc0cea32a7, type: 3}
       propertyPath: m_LocalPosition.z
@@ -2166,6 +2210,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 874158129}
     m_Modifications:
+    - target: {fileID: 3399358908314305425, guid: 8fc395398d0be4d1dbb13fbc0cea32a7, type: 3}
+      propertyPath: coinSound
+      value: 
+      objectReference: {fileID: 8300000, guid: ccd0634cec4874a268e11e672f2a7709, type: 3}
     - target: {fileID: 3590601910715494813, guid: 8fc395398d0be4d1dbb13fbc0cea32a7, type: 3}
       propertyPath: m_Name
       value: Bitcoin_forog
@@ -2176,11 +2224,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4224290436786252583, guid: 8fc395398d0be4d1dbb13fbc0cea32a7, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 60
+      value: 57.78
       objectReference: {fileID: 0}
     - target: {fileID: 4224290436786252583, guid: 8fc395398d0be4d1dbb13fbc0cea32a7, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 604.703
+      value: 603.31
       objectReference: {fileID: 0}
     - target: {fileID: 4224290436786252583, guid: 8fc395398d0be4d1dbb13fbc0cea32a7, type: 3}
       propertyPath: m_LocalRotation.w
@@ -2249,7 +2297,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
-  m_AnchoredPosition: {x: 160, y: 5}
+  m_AnchoredPosition: {x: 160, y: 30.2}
   m_SizeDelta: {x: 300, y: 50}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1221218034
@@ -2299,8 +2347,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 22
-  m_fontSizeBase: 22
+  m_fontSize: 40
+  m_fontSizeBase: 40
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -2338,7 +2386,7 @@ MonoBehaviour:
   m_VertexBufferAutoSizeReduction: 0
   m_useMaxVisibleDescender: 1
   m_pageToDisplay: 1
-  m_margin: {x: 0, y: 0, z: 0, w: 0}
+  m_margin: {x: 0, y: 0, z: -230.31702, w: 0}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
   m_hasFontAssetChanged: 0
@@ -2360,6 +2408,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 874158129}
     m_Modifications:
+    - target: {fileID: 3399358908314305425, guid: 8fc395398d0be4d1dbb13fbc0cea32a7, type: 3}
+      propertyPath: coinSound
+      value: 
+      objectReference: {fileID: 8300000, guid: ccd0634cec4874a268e11e672f2a7709, type: 3}
     - target: {fileID: 3590601910715494813, guid: 8fc395398d0be4d1dbb13fbc0cea32a7, type: 3}
       propertyPath: m_Name
       value: Bitcoin_forog
@@ -2370,7 +2422,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4224290436786252583, guid: 8fc395398d0be4d1dbb13fbc0cea32a7, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 55.15
+      value: 52.926
       objectReference: {fileID: 0}
     - target: {fileID: 4224290436786252583, guid: 8fc395398d0be4d1dbb13fbc0cea32a7, type: 3}
       propertyPath: m_LocalPosition.z
@@ -2493,8 +2545,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 22
-  m_fontSizeBase: 22
+  m_fontSize: 21
+  m_fontSizeBase: 21
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -2633,6 +2685,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 874158129}
     m_Modifications:
+    - target: {fileID: 3399358908314305425, guid: 8fc395398d0be4d1dbb13fbc0cea32a7, type: 3}
+      propertyPath: coinSound
+      value: 
+      objectReference: {fileID: 8300000, guid: ccd0634cec4874a268e11e672f2a7709, type: 3}
     - target: {fileID: 3590601910715494813, guid: 8fc395398d0be4d1dbb13fbc0cea32a7, type: 3}
       propertyPath: m_Name
       value: Bitcoin_forog
@@ -2643,7 +2699,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4224290436786252583, guid: 8fc395398d0be4d1dbb13fbc0cea32a7, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 89.49
+      value: 87.637
       objectReference: {fileID: 0}
     - target: {fileID: 4224290436786252583, guid: 8fc395398d0be4d1dbb13fbc0cea32a7, type: 3}
       propertyPath: m_LocalPosition.z
@@ -2700,21 +2756,25 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 874158129}
     m_Modifications:
+    - target: {fileID: 3399358908314305425, guid: 8fc395398d0be4d1dbb13fbc0cea32a7, type: 3}
+      propertyPath: coinSound
+      value: 
+      objectReference: {fileID: 8300000, guid: ccd0634cec4874a268e11e672f2a7709, type: 3}
     - target: {fileID: 3590601910715494813, guid: 8fc395398d0be4d1dbb13fbc0cea32a7, type: 3}
       propertyPath: m_Name
       value: Bitcoin_forog
       objectReference: {fileID: 0}
     - target: {fileID: 4224290436786252583, guid: 8fc395398d0be4d1dbb13fbc0cea32a7, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 492
+      value: 489.028
       objectReference: {fileID: 0}
     - target: {fileID: 4224290436786252583, guid: 8fc395398d0be4d1dbb13fbc0cea32a7, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 53.58
+      value: 52.344
       objectReference: {fileID: 0}
     - target: {fileID: 4224290436786252583, guid: 8fc395398d0be4d1dbb13fbc0cea32a7, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 610.04
+      value: 616.35
       objectReference: {fileID: 0}
     - target: {fileID: 4224290436786252583, guid: 8fc395398d0be4d1dbb13fbc0cea32a7, type: 3}
       propertyPath: m_LocalRotation.w
@@ -2762,6 +2822,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 874158129}
     m_Modifications:
+    - target: {fileID: 3399358908314305425, guid: 8fc395398d0be4d1dbb13fbc0cea32a7, type: 3}
+      propertyPath: coinSound
+      value: 
+      objectReference: {fileID: 8300000, guid: ccd0634cec4874a268e11e672f2a7709, type: 3}
     - target: {fileID: 3590601910715494813, guid: 8fc395398d0be4d1dbb13fbc0cea32a7, type: 3}
       propertyPath: m_Name
       value: Bitcoin_forog
@@ -2772,7 +2836,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4224290436786252583, guid: 8fc395398d0be4d1dbb13fbc0cea32a7, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 52.99
+      value: 51.431
       objectReference: {fileID: 0}
     - target: {fileID: 4224290436786252583, guid: 8fc395398d0be4d1dbb13fbc0cea32a7, type: 3}
       propertyPath: m_LocalPosition.z
@@ -2819,6 +2883,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 874158129}
     m_Modifications:
+    - target: {fileID: 3399358908314305425, guid: 8fc395398d0be4d1dbb13fbc0cea32a7, type: 3}
+      propertyPath: coinSound
+      value: 
+      objectReference: {fileID: 8300000, guid: ccd0634cec4874a268e11e672f2a7709, type: 3}
     - target: {fileID: 3590601910715494813, guid: 8fc395398d0be4d1dbb13fbc0cea32a7, type: 3}
       propertyPath: m_Name
       value: Bitcoin_forog
@@ -2829,7 +2897,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4224290436786252583, guid: 8fc395398d0be4d1dbb13fbc0cea32a7, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 64.81
+      value: 62.538
       objectReference: {fileID: 0}
     - target: {fileID: 4224290436786252583, guid: 8fc395398d0be4d1dbb13fbc0cea32a7, type: 3}
       propertyPath: m_LocalPosition.z
@@ -2983,7 +3051,7 @@ RectTransform:
   m_GameObject: {fileID: 1802223273}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalScale: {x: 2, y: 2, z: 2}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 165258446}
@@ -2991,7 +3059,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -200, y: -60}
+  m_AnchoredPosition: {x: -273, y: -2}
   m_SizeDelta: {x: 160, y: 30}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1802223275
@@ -3058,8 +3126,8 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: be4ce60e2c9768c44b9b10b9c5258045, type: 3}
-  m_Type: 0
+  m_Sprite: {fileID: 10905, guid: 0000000000000000f000000000000000, type: 0}
+  m_Type: 1
   m_PreserveAspect: 0
   m_FillCenter: 1
   m_FillMethod: 4
@@ -3198,17 +3266,21 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 874158129}
     m_Modifications:
+    - target: {fileID: 3399358908314305425, guid: 8fc395398d0be4d1dbb13fbc0cea32a7, type: 3}
+      propertyPath: coinSound
+      value: 
+      objectReference: {fileID: 8300000, guid: ccd0634cec4874a268e11e672f2a7709, type: 3}
     - target: {fileID: 3590601910715494813, guid: 8fc395398d0be4d1dbb13fbc0cea32a7, type: 3}
       propertyPath: m_Name
       value: Bitcoin_forog
       objectReference: {fileID: 0}
     - target: {fileID: 4224290436786252583, guid: 8fc395398d0be4d1dbb13fbc0cea32a7, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 492
+      value: 483.33
       objectReference: {fileID: 0}
     - target: {fileID: 4224290436786252583, guid: 8fc395398d0be4d1dbb13fbc0cea32a7, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 53.58
+      value: 52.308
       objectReference: {fileID: 0}
     - target: {fileID: 4224290436786252583, guid: 8fc395398d0be4d1dbb13fbc0cea32a7, type: 3}
       propertyPath: m_LocalPosition.z
